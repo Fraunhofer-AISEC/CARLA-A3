@@ -10,7 +10,7 @@ Cython==0.29.15
 dictdiffer==0.9.0
 fastcluster==1.2.6
 hexdump==3.3
-Jinja2==3.1.2
+Jinja2==3.1.6
 jsonrpc==3.0.1
 Keras==2.3.1
 matplotlib==3.5.3
