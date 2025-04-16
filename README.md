@@ -1,4 +1,4 @@
-# CARLA-based Adversarial AttackAssessment on Autonomous Vehicles (CARLA-A3)
+# CARLA-based Adversarial Attack Assessment on Autonomous Vehicles (CARLA-A3)
 This project is not maintained. It has been published as part of the following demo paper accepted for the VehicleSec 2024:  
 
 ```
