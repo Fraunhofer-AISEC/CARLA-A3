@@ -71,7 +71,7 @@ networkx==2.6.3
 notebook==6.4.12
 numba==0.50.1
 numpy==1.19.0
-opencv-python==4.7.0.72
+opencv-python==4.8.1.78
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.0.5
